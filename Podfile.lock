@@ -1,0 +1,93 @@
+PODS:
+  - Alamofire (5.1.0)
+  - Amplitude-iOS (4.10.0)
+  - Device (3.2.1)
+  - FacebookSDK (6.5.1):
+    - FacebookSDK/CoreKit (= 6.5.1)
+    - FacebookSDK/MarketingKit (= 6.5.1)
+  - FacebookSDK/CoreKit (6.5.1):
+    - FBSDKCoreKit (~> 6.5.1)
+  - FacebookSDK/MarketingKit (6.5.1):
+    - FacebookSDK/CoreKit
+    - FBSDKMarketingKit (~> 6.5.1)
+  - FBSDKCoreKit (6.5.2):
+    - FBSDKCoreKit/Basics (= 6.5.2)
+    - FBSDKCoreKit/Core (= 6.5.2)
+  - FBSDKCoreKit/Basics (6.5.2)
+  - FBSDKCoreKit/Core (6.5.2):
+    - FBSDKCoreKit/Basics
+  - FBSDKMarketingKit (6.5.2):
+    - FBSDKCoreKit (~> 6.5.2)
+  - lottie-ios (3.1.8)
+  - OpenSSL-Apple (1.1.1g.6)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SwiftyBeaver (1.9.1)
+  - SwiftyStoreKit (0.15.0)
+  - Swinject (2.7.1)
+  - TunnelKit (2.2.5):
+    - TunnelKit/Protocols/OpenVPN (= 2.2.5)
+  - TunnelKit/AppExtension (2.2.5):
+    - SwiftyBeaver
+    - TunnelKit/Core
+  - TunnelKit/Core (2.2.5):
+    - SwiftyBeaver
+  - TunnelKit/Protocols/OpenVPN (2.2.5):
+    - OpenSSL-Apple (~> 1.1.1g.6)
+    - TunnelKit/AppExtension
+    - TunnelKit/Core
+
+DEPENDENCIES:
+  - Alamofire
+  - Amplitude-iOS
+  - Device
+  - FacebookSDK
+  - lottie-ios
+  - RxCocoa
+  - RxSwift
+  - SwiftyStoreKit
+  - Swinject
+  - TunnelKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Amplitude-iOS
+    - Device
+    - FacebookSDK
+    - FBSDKCoreKit
+    - FBSDKMarketingKit
+    - lottie-ios
+    - OpenSSL-Apple
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyBeaver
+    - SwiftyStoreKit
+    - Swinject
+    - TunnelKit
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  Amplitude-iOS: 7d8cdc3408ba35c2e68368fc7c692cd104606b94
+  Device: 0738862dd8a30856b4bd9e21cb9b728873d21392
+  FacebookSDK: cb4b62619b27a9712170d82a95f7ebd48a4720da
+  FBSDKCoreKit: ada5c8a05188daefc9addb985c52b8a1b26da519
+  FBSDKMarketingKit: 2c6f0e0e2c16179d8bdf9a4921e68500a4cce4d8
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  OpenSSL-Apple: c9c1b9c5b2b1fc4e1758fc5f0836b58ae7fd8183
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftyBeaver: a1f5691458561414bcfab51874b2b7445451602b
+  SwiftyStoreKit: 033d06b6f87955405d3f844a18a7687c2438592a
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  TunnelKit: 17c6af76028b29cc6ddc936160986a4d12e09266
+
+PODFILE CHECKSUM: b08598b2ec085998532d7bda1a374a93cbb964dc
+
+COCOAPODS: 1.9.3
