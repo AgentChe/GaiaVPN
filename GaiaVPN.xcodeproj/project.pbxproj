@@ -1296,7 +1296,7 @@
 				CODE_SIGN_ENTITLEMENTS = GaiaVPN/GaiaVPN.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/GaiaVPN/Resource/Info.plist";
@@ -1305,7 +1305,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia;
 				PRODUCT_NAME = "Gaia VPN";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_dev_provisioning_profile;
@@ -1326,7 +1326,7 @@
 				CODE_SIGN_ENTITLEMENTS = GaiaVPN/GaiaVPN.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/GaiaVPN/Resource/Info.plist";
@@ -1335,7 +1335,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia;
 				PRODUCT_NAME = "Gaia VPN";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_distr_provisioning_profile;
@@ -1352,7 +1352,7 @@
 				CODE_SIGN_ENTITLEMENTS = "GaiaVPN-NE/GaiaVPN_NE.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 20;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "GaiaVPN-NE/Info.plist";
@@ -1362,7 +1362,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia.ne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_ne_dev_provisioning_profile;
@@ -1380,7 +1380,7 @@
 				CODE_SIGN_ENTITLEMENTS = "GaiaVPN-NE/GaiaVPN_NE.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 20;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "GaiaVPN-NE/Info.plist";
@@ -1390,7 +1390,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia.ne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_ne_distr_provisioning_profile;
@@ -1465,7 +1465,7 @@
 				CODE_SIGN_ENTITLEMENTS = GaiaVPN/GaiaVPN.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 21;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "$(SRCROOT)/GaiaVPN/Resource/Info.plist";
@@ -1474,7 +1474,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia;
 				PRODUCT_NAME = "Gaia VPN";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_dev_provisioning_profile;
@@ -1491,7 +1491,7 @@
 				CODE_SIGN_ENTITLEMENTS = "GaiaVPN-NE/GaiaVPN_NE.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				CURRENT_PROJECT_VERSION = 20;
+				CURRENT_PROJECT_VERSION = 22;
 				DEVELOPMENT_TEAM = 84M2AR9RYC;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = "GaiaVPN-NE/Info.plist";
@@ -1501,7 +1501,7 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.25;
+				MARKETING_VERSION = 1.26;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourshield.gaia.ne;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = gaia_ne_dev_provisioning_profile;
